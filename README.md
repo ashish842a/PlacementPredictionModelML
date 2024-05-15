@@ -7,8 +7,8 @@ This repository contains Bash code to create scatter plots for each field agains
 ## Usage
 1. Clone the repository:
    \`\`\`bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/ashish842a/PlacementPredictionModelML.git
+   cd <PlacementPredictionModelML>
    \`\`\`
 
 2. Ensure you have the necessary dependencies installed (e.g., Python, matplotlib, pandas).
